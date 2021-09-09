@@ -1,0 +1,30 @@
+{
+  "name": "study-eslint",
+  "version": "1.0.0",
+  "description": "study-eslint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxyue25/study-eslint.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "zxyue25",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zxyue25/study-eslint/issues"
+  },
+  "homepage": "https://github.com/zxyue25/study-eslint#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.31.0",
+    "@typescript-eslint/parser": "^4.31.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-vue": "^7.17.0"
+  }
+}
